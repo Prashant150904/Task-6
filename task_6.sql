@@ -1,5 +1,5 @@
 show databases;
-use divdbb;
+use t6;
 CREATE TABLE online_sales (
     order_id INT,
     order_date DATE,
